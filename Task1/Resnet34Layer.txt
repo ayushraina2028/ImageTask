@@ -1,0 +1,31 @@
+Epoch [1/15], Loss: 0.5952968001365662
+Accuracy of the model on the validation: 68.65963855421687 %
+Epoch [2/15], Loss: 0.5619393587112427
+Accuracy of the model on the validation: 71.12951807228916 %
+Epoch [3/15], Loss: 0.5745457410812378
+Accuracy of the model on the validation: 71.80890227576974 %
+Epoch [4/15], Loss: 0.7435004711151123
+Accuracy of the model on the validation: 71.47757697456493 %
+Epoch [5/15], Loss: 0.4393044114112854
+Accuracy of the model on the validation: 72.01137884872824 %
+Epoch [6/15], Loss: 0.5040503740310669
+Accuracy of the model on the validation: 72.32429718875503 %
+Epoch [7/15], Loss: 0.5570199489593506
+Accuracy of the model on the validation: 71.70682730923694 %
+Epoch [8/15], Loss: 0.5062345862388611
+Accuracy of the model on the validation: 72.39290495314592 %
+Epoch [9/15], Loss: 0.5721363425254822
+Accuracy of the model on the validation: 72.01974564926373 %
+Epoch [10/15], Loss: 0.4806152284145355
+Accuracy of the model on the validation: 72.61880856760375 %
+Epoch [11/15], Loss: 0.6933561563491821
+Accuracy of the model on the validation: 71.83734939759036 %
+Epoch [12/15], Loss: 0.5287413001060486
+Accuracy of the model on the validation: 72.23226238286479 %
+Epoch [13/15], Loss: 0.45756086707115173
+Accuracy of the model on the validation: 72.74096385542168 %
+Epoch [14/15], Loss: 0.5726796984672546
+Accuracy of the model on the validation: 72.72757697456493 %
+Epoch [15/15], Loss: 0.6660417318344116
+Accuracy of the model on the validation: 72.7024765729585 %
+Test Accuracy of the model on the test images: 72.61044176706827 %

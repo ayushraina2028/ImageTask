@@ -1,0 +1,41 @@
+Epoch [1/20], Loss: 9.3868
+Validation Loss: 9.8813
+Epoch [2/20], Loss: 9.1555
+Validation Loss: 9.8956
+Epoch [3/20], Loss: 9.0439
+Validation Loss: 9.8786
+Epoch [4/20], Loss: 8.9892
+Validation Loss: 9.8776
+Epoch [5/20], Loss: 8.9527
+Validation Loss: 9.7919
+Epoch [6/20], Loss: 8.9193
+Validation Loss: 9.9338
+Epoch [7/20], Loss: 8.8938
+Validation Loss: 9.9070
+Epoch [8/20], Loss: 8.8718
+Validation Loss: 9.9331
+Epoch [9/20], Loss: 8.8515
+Validation Loss: 9.9172
+Epoch [10/20], Loss: 8.8317
+Validation Loss: 9.9812
+Epoch [11/20], Loss: 8.8166
+Validation Loss: 10.0206
+Epoch [12/20], Loss: 8.7968
+Validation Loss: 9.9299
+Epoch [13/20], Loss: 8.7837
+Validation Loss: 9.9721
+Epoch [14/20], Loss: 8.7740
+Validation Loss: 9.9279
+Epoch [15/20], Loss: 8.7598
+Validation Loss: 9.9641
+Epoch [16/20], Loss: 8.7507
+Validation Loss: 9.9748
+Epoch [17/20], Loss: 8.7395
+Validation Loss: 9.9207
+Epoch [18/20], Loss: 8.7272
+Validation Loss: 9.9951
+Epoch [19/20], Loss: 8.7195
+Validation Loss: 9.9427
+Epoch [20/20], Loss: 8.7070
+Validation Loss: 10.0262
+Test Loss: 10.0249

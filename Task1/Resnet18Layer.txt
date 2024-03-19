@@ -1,0 +1,41 @@
+Epoch [1/20], Loss: 0.6059567928314209
+Accuracy of the model on the validation: 66.26506024096386 %
+Epoch [2/20], Loss: 0.4959028363227844
+Accuracy of the model on the validation: 69.82597054886212 %
+Epoch [3/20], Loss: 0.5312341451644897
+Accuracy of the model on the validation: 70.95883534136546 %
+Epoch [4/20], Loss: 0.647229790687561
+Accuracy of the model on the validation: 71.44578313253012 %
+Epoch [5/20], Loss: 0.6032260656356812
+Accuracy of the model on the validation: 70.83333333333333 %
+Epoch [6/20], Loss: 0.5613442659378052
+Accuracy of the model on the validation: 71.5210843373494 %
+Epoch [7/20], Loss: 0.5020116567611694
+Accuracy of the model on the validation: 71.94444444444444 %
+Epoch [8/20], Loss: 0.6657731533050537
+Accuracy of the model on the validation: 71.45917001338688 %
+Epoch [9/20], Loss: 0.49267449975013733
+Accuracy of the model on the validation: 72.22389558232932 %
+Epoch [10/20], Loss: 0.6352019906044006
+Accuracy of the model on the validation: 72.30756358768407 %
+Epoch [11/20], Loss: 0.4632578492164612
+Accuracy of the model on the validation: 72.48828647925033 %
+Epoch [12/20], Loss: 0.5592776536941528
+Accuracy of the model on the validation: 72.26070950468541 %
+Epoch [13/20], Loss: 0.540794849395752
+Accuracy of the model on the validation: 72.24397590361446 %
+Epoch [14/20], Loss: 0.6043028235435486
+Accuracy of the model on the validation: 72.7359437751004 %
+Epoch [15/20], Loss: 0.5257039070129395
+Accuracy of the model on the validation: 72.44645247657296 %
+Epoch [16/20], Loss: 0.6243851780891418
+Accuracy of the model on the validation: 72.74933065595717 %
+Epoch [17/20], Loss: 0.5128797292709351
+Accuracy of the model on the validation: 72.56860776439089 %
+Epoch [18/20], Loss: 0.5237218141555786
+Accuracy of the model on the validation: 72.09839357429719 %
+Epoch [19/20], Loss: 0.5561299920082092
+Accuracy of the model on the validation: 72.4330655957162 %
+Epoch [20/20], Loss: 0.5633849501609802
+Accuracy of the model on the validation: 72.14022757697457 %
+Test Accuracy of the model on the test images: 72.26104417670683 %

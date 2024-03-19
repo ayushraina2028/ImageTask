@@ -1,0 +1,4 @@
+18Layer -> https://drive.google.com/file/d/1Nu27qe-88Tnv_DdHksdBfzKXF3-EQiiL/view?usp=sharing
+34 Layer -> https://drive.google.com/file/d/1zHk0L7nXEl3pBvviwOkQPduVag0-VjiX/view?usp=sharing
+
+While Going from 34 Layer model to 18 Layer model we just have to [3,4,6,3] to [2,2,2,2] in line 325 in rough.py
